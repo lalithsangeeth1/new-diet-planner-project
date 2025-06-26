@@ -1,6 +1,5 @@
 streamlit
 pytesseract
-pillow
-fpdf
-matplotlib
+Pillow
 PyMuPDF
+fpdf
