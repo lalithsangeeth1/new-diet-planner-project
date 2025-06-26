@@ -1,6 +1,5 @@
-streamlit
 pytesseract
+pdf2image
 Pillow
-PyMuPDF
-fpdf
 matplotlib
+fpdf
