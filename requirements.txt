@@ -4,4 +4,4 @@ fpdf
 matplotlib
 pytesseract
 opencv-python
-
+pymupdf
