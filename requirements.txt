@@ -3,3 +3,4 @@ pytesseract
 Pillow
 PyMuPDF
 fpdf
+matplotlib
