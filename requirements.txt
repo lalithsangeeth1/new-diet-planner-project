@@ -1,6 +1,7 @@
 streamlit
-matplotlib
-pandas
-numpy
-Pillow
+pillow
 fpdf
+matplotlib
+pytesseract
+opencv-python
+
