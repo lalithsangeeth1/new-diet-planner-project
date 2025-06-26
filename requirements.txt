@@ -1,5 +1,7 @@
+streamlit
 pytesseract
 pdf2image
+fpdf
 Pillow
 matplotlib
-fpdf
+PyMuPDF
